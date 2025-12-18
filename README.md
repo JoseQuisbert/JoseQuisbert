@@ -93,7 +93,7 @@ El sistema simula un entorno de supermercado donde:
 
 ---
 
-## ✅ Nota final
+##  Nota final
 
 Estos proyectos representan **experiencia académica colaborativa**, trabajo en equipo y uso de herramientas reales de desarrollo.  
 Los proyectos personales y de autoría propia se encuentran identificados por separado en mi perfil.
